@@ -1,7 +1,8 @@
 :fire:
 ```
-# nodejscertification 
-this repo contains all code to prep for nodejs certifications, developed by Vish
+# nodejscertification
+: Developed to provide accurate examples to covers all topics required for JSNAD and JSNSD certifications
+: by Vish (@realvish)
 
 ++ Modules
 
@@ -10,8 +11,11 @@ this repo contains all code to prep for nodejs certifications, developed by Vish
 
 
 
-++ Topics
+++ Official Topics (re-arranged)
 
+JavaScript Prerequisites – 7%
+    Language fundamentals
+    Scoped to core language features introduced since EcmaScript 1 and still heavily used today
 Buffer and Streams – 11%
     Node.js Buffer API’s
     Incremental Processing
@@ -38,9 +42,6 @@ Events – 11%
 File System – 8%
     Input/output
     Watching
-JavaScript Prerequisites – 7%
-    Language fundamentals
-    Scoped to core language features introduced since EcmaScript 1 and still heavily used today
 Module system – 7%
     CommonJS Module System only
 Process/Operating System – 6%
