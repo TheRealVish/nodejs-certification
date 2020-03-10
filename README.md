@@ -10,12 +10,12 @@ this repo contains all code to prep for nodejs certifications, developed by Vish
 
 ++ Topics
 
-Buffer and Streams – 11%
-    Node.js Buffer API’s
-    Incremental Processing
-    Transforming Data
-    Connecting Streams
-Control flow – 12%
++++ Buffer and Streams – 11%
+    - Node.js Buffer API’s
+    - Incremental Processing
+    - Transforming Data
+    - Connecting Streams
+++++Control flow – 12%
     Managing asynchronous operations
     Control flow abstractions
 Child Processes – 8%
