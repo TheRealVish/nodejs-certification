@@ -1,5 +1,6 @@
+:fire:
 ```
-# nodejscertification :fire:
+# nodejscertification 
 this repo contains all code to prep for nodejs certifications, developed by Vish
 
 ++ Modules
@@ -52,4 +53,3 @@ Unit Testing – 6%
     Using assertions
     Testing synchronous code
     Testing asynchronous code
-    ```
